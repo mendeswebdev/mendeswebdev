@@ -35,7 +35,7 @@ Aqui estão as tecnologias com as quais trabalho ativamente e os conceitos que a
 Seja para conversar sobre tecnologia, oportunidades de estágio ou desenvolvimento de projetos freelancer, sinta-se à vontade para entrar em contato:
 
 - **LinkedIn:** [Matheus Mendes](www.linkedin.com/in/matheus-mendes-a43060375)
-- **E-mail:** (theuza588@gmail.com)
+- **E-mail:** theuza588@gmail.com
 - **WhatsApp:** [Fale Comigo](https://wa.me/qr/ANZHSLFHZ2L5P1)
 
 ---
