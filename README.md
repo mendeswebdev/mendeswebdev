@@ -9,6 +9,7 @@ Sou um estudante focado em transformar problemas reais em soluções digitais ef
 ### 💻 Sobre Mim
 
 - 🎓 Graduando em **Engenharia de Software** no Instituto Federal de Goiás (IFG).
+- 💻 Estagiário na Unidade de Soluções do Sebrae-GO 
 - 🚀 Focado no desenvolvimento de sites responsivos, otimizados e com foco na experiência do usuário.
 - 🧠 Sólida base em lógica de programação e algoritmos estruturados.
 - 📋 Pratico a **Engenharia de Requisitos** para entender profundamente as dores do cliente antes de iniciar qualquer linha de código.
